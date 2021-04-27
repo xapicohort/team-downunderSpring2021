@@ -20,19 +20,17 @@ Desktop applications for:
 
 Linux - xAPI Cohort LRP - DownUnder v8-25 Linux.zip
 
-http://duckworks.biz/duckworks/xAPI/DownUnder/xAPI&nbsp;Cohort&nbsp;MM&nbsp;LRP&nbsp;&#45;&nbsp;Team&nbsp;DownUnder&nbsp;v8&#45;25/xAPI&nbsp;Cohort&nbsp;LRP&nbsp;&#45;&nbsp;DownUnder&nbsp;v8&#45;25&nbsp;Linux.zip
+http://duckworks.biz/duckworks/xAPI/DownUnder/files/xAPI%20Cohort%20LRP%20-%20DownUnder%20v8-25%20Linux.zip
 
 Windows 64 bit - xAPI Cohort LRP - DownUnder v8-25 Windows x86-64.zip 
 
-http://duckworks.biz/duckworks/xAPI/DownUnder/xAPI&nbsp;Cohort&nbsp;MM&nbsp;LRP&nbsp;&#45;&nbsp;Team&nbsp;DownUnder&nbsp;v8&#45;25/xAPI&nbsp;Cohort&nbsp;LRP&nbsp;&#45;&nbsp;DownUnder&nbsp;v8&#45;25&nbsp;Windows&nbsp;x86&#45;64.zip
-
+http://duckworks.biz/duckworks/xAPI/DownUnder/files/xAPI%20Cohort%20LRP%20-%20DownUnder%20v8-25%20Windows%20x86-64.zip
 
 Mac - xAPI Cohort LRP - DownUnder v8-25 Mac.zip 
 
-http://duckworks.biz/duckworks/xAPI/DownUnder/xAPI&nbsp;Cohort&nbsp;MM&nbsp;LRP&nbsp;&#45;&nbsp;Team&nbsp;DownUnder&nbsp;v8&#45;25/xAPI&nbsp;Cohort&nbsp;LRP&nbsp;&#45;&nbsp;DownUnder&nbsp;v8&#45;25&nbsp;Windows.zip
+http://duckworks.biz/duckworks/xAPI/DownUnder/files/xAPI%20Cohort%20LRP%20-%20DownUnder%20v8-25%20MacOSX.zip
 
 Windows 32 bit - xAPI Cohort LRP - DownUnder v8-25 Windows 32 bit.zip 
 
-http://duckworks.biz/duckworks/xAPI/DownUnder/xAPI&nbsp;Cohort&nbsp;MM&nbsp;LRP&nbsp;&#45;&nbsp;Team&nbsp;DownUnder&nbsp;v8&#45;25/xAPI&nbsp;Cohort&nbsp;LRP&nbsp;&#45;&nbsp;DownUnder&nbsp;v8&#45;25&nbsp;MacOSX.zip
-
+http://duckworks.biz/duckworks/xAPI/DownUnder/files/xAPI%20Cohort%20LRP%20-%20DownUnder%20v8-25%20Windows.zip
 
