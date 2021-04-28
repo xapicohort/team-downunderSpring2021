@@ -1,0 +1,14 @@
+
+
+lrsData = {
+	"authkey": "huwazv:ratten",
+	"endpoint": "https://lrs.globalvision.com.au/team-downunder21/xapi/",
+	"lrsDatReport": "#",
+    "VideoSource":"https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_2MB.mp4",
+    "VideoTitle":"xAPI Demo Video - Big Buck Bunny Test video"
+}
+
+
+
+
+
