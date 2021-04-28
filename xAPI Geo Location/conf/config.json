@@ -1,0 +1,10 @@
+Config = {
+	"authkey": "fohpis:hunkeh",
+	"endpoint": "https://lrs.globalvision.com.au/team-downunder21/xapi/",
+	"mapBoxToken": "pk.eyJ1IjoianVsaWFuZGF2aXMiLCJhIjoiY2tjY3FmdXZiMDU3aTJ4cDNlMjNzb2lvMCJ9.fkDZRReOQ0WXzgNIsRKCHg",
+    "objectID" : "https://xapi.com.au/xapi-esxapi-app",
+    "rootURL" : "https://digitallearningsolutions.com.au/xapiug/geo",
+    "dashboard":"https://digitallearningsolutions.com.au/xapiug/geo/dashboard.html",
+    "radius":"10 ",
+    "googleMapsAPI":"AIzaSyCfuQm0olWCGhBSgShTtHzJHbHde9Es-KE",
+}

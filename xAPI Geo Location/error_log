@@ -1,0 +1,339 @@
+[29-Oct-2020 23:48:19 UTC] PHP Warning:  file_get_contents(/conf/simulation.json): failed to open stream: No such file or directory in /home/julianda/public_html/ESxAPI/sim.php on line 14
+[29-Oct-2020 23:51:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/julianda/public_html/ESxAPI/sim.php on line 14
+[29-Oct-2020 23:51:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/julianda/public_html/ESxAPI/sim.php on line 14
+[29-Oct-2020 23:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/julianda/public_html/ESxAPI/sim.php on line 14
+[29-Oct-2020 23:53:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/julianda/public_html/ESxAPI/sim.php on line 14
+[29-Oct-2020 23:58:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/julianda/public_html/ESxAPI/sim.php on line 15
+[30-Oct-2020 00:13:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/julianda/public_html/ESxAPI/sim.php on line 15
+[30-Oct-2020 01:10:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/julianda/public_html/ESxAPI/sim.php on line 49
+[30-Oct-2020 01:11:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/julianda/public_html/ESxAPI/sim.php on line 19
+[30-Oct-2020 01:11:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/julianda/public_html/ESxAPI/sim.php on line 19
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: lat in /home/julianda/public_html/ESxAPI/sim.php on line 21
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: long in /home/julianda/public_html/ESxAPI/sim.php on line 22
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: incidentType in /home/julianda/public_html/ESxAPI/sim.php on line 23
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: location in /home/julianda/public_html/ESxAPI/sim.php on line 24
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: simradius in /home/julianda/public_html/ESxAPI/sim.php on line 25
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: simresources in /home/julianda/public_html/ESxAPI/sim.php on line 26
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: incidentDescrip in /home/julianda/public_html/ESxAPI/sim.php on line 27
+[30-Oct-2020 01:13:02 UTC] PHP Notice:  Undefined index: simtitle in /home/julianda/public_html/ESxAPI/sim.php on line 28
+[30-Oct-2020 01:13:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/julianda/public_html/ESxAPI/sim.php on line 49
+[30-Oct-2020 01:13:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/julianda/public_html/ESxAPI/sim.php on line 49
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 139
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'resource-count' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 140
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-no' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 141
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'latitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 142
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset '@attributes' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'longitude' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 143
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'category1' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'incident-location' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'municipality' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'name' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'agency' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 144
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'origin-date-time-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 145
+[05-Nov-2020 16:10:23 UTC] PHP Warning:  Illegal string offset 'last-updated-dt-str' in /home/julianda/public_html/ESxAPI/getgeorss.php on line 146
+[16-Nov-2020 01:35:10 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/julianda/public_html/ESxAPI/getgeorss.php:25
+Stack trace:
+#0 /home/julianda/public_html/ESxAPI/getgeorss.php(25): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/julianda/public_html/ESxAPI/getgeorss.php on line 25
+[17-Nov-2020 03:28:07 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/julianda/public_html/ESxAPI/getgeorss.php:25
+Stack trace:
+#0 /home/julianda/public_html/ESxAPI/getgeorss.php(25): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/julianda/public_html/ESxAPI/getgeorss.php on line 25
+[18-Nov-2020 01:42:17 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/julianda/public_html/ESxAPI/getgeorss.php:25
+Stack trace:
+#0 /home/julianda/public_html/ESxAPI/getgeorss.php(25): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/julianda/public_html/ESxAPI/getgeorss.php on line 25
